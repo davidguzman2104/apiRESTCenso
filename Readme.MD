@@ -15,5 +15,3 @@ M.T.I. Luis Alejandro Santana Valadez
 **Fecha:**
 04/03/2025
 
-**Repositorio:**
-[apiRESTCenso](https://github.com/davidguzman2104/apiRESTCenso.git)
